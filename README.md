@@ -4,3 +4,8 @@ nfodsnofidsn
 ihui
 
 ## more notes
+
+
+## Local dev
+
+1. Openfdsonods
